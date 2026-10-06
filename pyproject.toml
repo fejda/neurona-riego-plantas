@@ -1,0 +1,9 @@
+[project]
+name = "neurona-riego-plantas"
+version = "0.1.0"
+description = "Neurona artificial con sigmoide para decidir si una planta necesita riego"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.0",
+]
